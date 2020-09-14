@@ -1,3 +1,0 @@
-resources/creatures/things.png
-key 1 160 96 32 32
-chest 1 320 480 32 32
