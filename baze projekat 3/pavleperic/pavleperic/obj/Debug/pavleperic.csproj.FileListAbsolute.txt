@@ -1,0 +1,60 @@
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\bin\Debug\pavleperic.exe.config
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\bin\Debug\pavleperic.exe
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\bin\Debug\pavleperic.pdb
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\pavleperic.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\pavleperic.Form1.resources
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\pavleperic.Properties.Resources.resources
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.GenerateResource.cache
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\pavleperic.exe
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\pavleperic.pdb
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\bin\Debug\Google.Protobuf.dll
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\bin\Debug\MySql.Data.dll
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\bin\Debug\Google.Protobuf.xml
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\bin\Debug\MySql.Data.xml
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\Interop.SSCE.dll
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.ResolveComReference.cache
+C:\Users\Pavle\Desktop\baze projekat\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.CopyComplete
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\Form1.resx
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\Form1.cs
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\Form1.Designer.cs
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\pavleperic.exe.config
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\pavleperic.exe
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\pavleperic.pdb
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\Google.Protobuf.dll
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\MySql.Data.dll
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\Google.Protobuf.xml
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\bin\Debug\MySql.Data.xml
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\pavleperic.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\Interop.SSCE.dll
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.ResolveComReference.cache
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\pavleperic.Form1.resources
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\pavleperic.Properties.Resources.resources
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.GenerateResource.cache
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.CopyComplete
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\pavleperic.exe
+C:\Users\Pavle\Desktop\baze projekat 2\pavleperic\pavleperic\obj\Debug\pavleperic.pdb
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\Form1.resx
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\Form1.cs
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\Form1.Designer.cs
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\pavleperic.exe.config
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\pavleperic.exe
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\pavleperic.pdb
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\Google.Protobuf.dll
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\MySql.Data.dll
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\Google.Protobuf.xml
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\bin\Debug\MySql.Data.xml
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\pavleperic.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\Interop.SSCE.dll
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.ResolveComReference.cache
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\pavleperic.Form1.resources
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\pavleperic.Properties.Resources.resources
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.GenerateResource.cache
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\pavleperic.csproj.CopyComplete
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\pavleperic.exe
+C:\Users\Pavle\Desktop\baze projekat 3\pavleperic\pavleperic\obj\Debug\pavleperic.pdb
